@@ -52,7 +52,8 @@
 	overflow: hidden;
 	width: 100%;
 	border-radius: 10%;
-	transform: rotate(3deg);
+	/* transform: rotate(3deg); */
+	margin-left: 50px;
 }
 
 .about-image-wrapper img {
@@ -63,6 +64,7 @@
 .about-socials {
 	padding-top: 50px;
 	padding-bottom: 50px;
+	margin-left: 170px;
 }
 
 .about-socials-mobile {

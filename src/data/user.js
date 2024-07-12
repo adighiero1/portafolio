@@ -17,13 +17,12 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer.",
 		description:
-			"Hello! I am MERN fullstack web developer ",
+			"Hello! I am fullstack web developer that loves to learn new technologies and tackle exciting projects! Bellow are some samples of some of my more recent projects.",
 	},
 
 	about: {
-		title: "I’m Alejandro Dighiero. I Live in Montevideo Uruguay, where I spend my time learning new technologies and designing great dynamic websites!",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		title: "I’m Alejandro Dighiero. I Live in Montevideo Uruguay, where I spend my time learning new technologies!",
+		description:"My experience spans a wide range of projects, many of which I've made publicly available as open-source code. This allows others to not only explore my work but also contribute their own ideas and improvements. If you're interested, feel free to dive into the code and share any thoughts on how it could be enhanced. Collaboration is a powerful tool for learning and development, and I'm always eager to hear new perspectives and feedback."
 	},
 
 	articles: {
@@ -60,14 +59,6 @@ const INFO = {
 			link: "https://github.com/adighiero1/True-Codes-Final-Project",
 		},
 
-		// {
-		// 	title: "Project 4",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
 	],
 };
 
