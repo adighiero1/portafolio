@@ -96,6 +96,9 @@
 	padding-top: 30px;
 }
 
+
+
+
 @media (max-width: 1024px) {
 	.homepage-first-area {
 		flex-direction: column;
@@ -124,6 +127,7 @@
 	.homepage-first-area-right-side {
 		width: 100%;
 		order: 1;
+		margin-bottom: 30px; /* Add some margin to ensure spacing */
 	}
 
 	.homepage-image-container {
