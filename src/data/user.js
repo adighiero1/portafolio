@@ -21,7 +21,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Alejandro Dighiero. I Live in Montevideo Uruguay, where I spend my time learning new technologies!",
+		title: "Hello there! My name is Alejandro Dighiero and I am fullstack Web Dev!",
 		description:"My experience spans a wide range of projects, many of which I've made publicly available as open-source code. This allows others to not only explore my work but also contribute their own ideas and improvements. If you're interested, feel free to dive into the code and share any thoughts on how it could be enhanced. Collaboration is a powerful tool for learning and development, and I'm always eager to hear new perspectives and feedback."
 	},
 
