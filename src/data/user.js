@@ -51,12 +51,12 @@ const INFO = {
 		},
 
 		{
-			title: "Instabook",
+			title: "VapeLife",
 			description:
-				"Instabook was a fun project where I created a social media website similar to facebook.",
+				"VapeLife is full stack E-commerce website that allows you to search for products, purchase products and manage users.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/adighiero1/True-Codes-Final-Project",
+			link: "https://vapelife.up.railway.app/",
 		},
 
 	],
